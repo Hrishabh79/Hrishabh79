@@ -31,18 +31,18 @@ and continuously learning new technologies to grow as a developer.
 
 | Project | Description | Tech Stack | Link |
 |-------|------------|-----------|------|
-| **Market Pulse – Real-time Market Analysis App** | Real-time market data tracking with dashboards & charts. | HTML, CSS, JavaScript, APIs | Coming Soon |
-| **Advanced To-Do Web Application** | Responsive To-Do app with CRUD, search, filters & dark mode. | HTML, CSS, JavaScript, LocalStorage | [Live Demo](https://pranjaltripathi777.github.io/To-do-app/) |
+| **Market Pulse – Real-time Market Analysis App** | Real-time market data tracking with dashboards & charts. | HTML, CSS, JavaScript, APIs |
+| **Advanced To-Do Web Application** | Responsive To-Do app with CRUD, search, filters & dark mode. | HTML, CSS, JavaScript, LocalStorage |
 
 ---
 
 ## 🛠️ Tech Stack  
 
-- **Programming Languages:** Java, Python (Basics)  
-- **Web Technologies:** HTML, CSS, JavaScript  
+- **Programming Languages:** Java
+- **Web Technologies:** HTML, CSS
 - **Database:** MySQL  
 - **Tools:** Git, GitHub, VS Code  
-- **DSA:** Solved **100+ LeetCode problems**
+- **DSA:** Solved **250+ LeetCode problems**
 
 ---
 
@@ -67,9 +67,7 @@ and continuously learning new technologies to grow as a developer.
 ## 📜 Certifications  
 
 - Programming Fundamentals using Python — Infosys Springboard (2024)  
-- Next Gen Technology — Infosys Springboard (2024)  
-- GenAI Powered Data Analytics Job Simulation — Forage (2025)  
-- Quantum: Data Analytics Job Simulation — Forage (2025)  
+- Next Gen Technology — Infosys Springboard (2024)    
 
 ---
 
