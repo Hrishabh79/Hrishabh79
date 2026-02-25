@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Hrishabh Kasaudhan  
 
 🎓 B.Tech IT Student (2023–2027)  
-💻 Frontend Developer | 🧠 DSA & LeetCode Learner  
+💻 DSA & LeetCode Learner  
 
 Motivated B.Tech Information Technology undergraduate with strong foundations in
 programming and data structures. Seeking an entry-level opportunity to apply
