@@ -1,75 +1,75 @@
 # 👋 Hi, I'm Hrishabh Kasaudhan  
 
-🎓 B.Tech IT Student (2023–2027) | 💻 Frontend Developer | 🧠 DSA & LeetCode Learner  
+🎓 B.Tech IT Student (2023–2027)  
+💻 Frontend Developer | 🧠 DSA & LeetCode Learner  
 
-I’m a motivated engineering student who loves building real-world web projects, improving problem-solving skills through DSA, and learning technologies to grow as a developer.
+I’m a motivated engineering student who loves building real-world web projects,
+improving problem-solving skills through Data Structures & Algorithms,
+and continuously learning new technologies to grow as a developer.
 
 ---
 
-<!-- 🌟 LeetCode Animated Section -->
 ## 🧠 LeetCode Stats & Badges  
 
-<!-- Animated Header GIF -->
 <p align="center">
-  <img src="https://assets.leetcode.com/static_assets/marketing/2022-100.gif" width="150" alt="LeetCode Animation"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/2022-100.gif" width="140" alt="LeetCode Animation"/>
 </p>
 
-<!-- Large Dynamic Stats Card -->
 <p align="center">
   <a href="https://leetcode.com/u/Hrishabh79/">
-    <img src="https://leetcard.jacoblin.cool/Hrishabh79?theme=dark&font=Karma&ext=heatmap&border=2&radius=16" alt="LeetCode Stats" width="650"/>
+    <img src="https://leetcard.jacoblin.cool/Hrishabh79?theme=dark&font=Karma&ext=heatmap&border=2&radius=16" width="650"/>
   </a>
 </p>
 
-<!-- Bigger Badge Showcase -->
 <p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Hrishabh79&theme=dark&border=border&animated=true" alt="LeetCode Badge Showcase" width="550"/>
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Hrishabh79&theme=dark&animated=true" width="550"/>
 </p>
 
 ---
 
-# 🚀 My Projects  
-
-Here are some of the projects I’ve worked on 👇
+## 🚀 Projects  
 
 | Project | Description | Tech Stack | Link |
-|--------|-------------|------------|------|
-| **Market Pulse: Real-time Market Analysis App** | Tracks trends using real-time market data & displays dashboards/charts. | HTML, CSS, JavaScript, APIs, GitHub Pages | [Live Demo / Repo](#) |
-| **Advanced To-Do Web Application** | Responsive To-Do app with task CRUD, filters, search & dark mode. | HTML, CSS, JavaScript, LocalStorage | [Live Demo / Repo](https://pranjaltripathi777.github.io/To-do-app/) |
+|-------|------------|-----------|------|
+| **Market Pulse – Real-time Market Analysis App** | Real-time market data tracking with dashboards & charts. | HTML, CSS, JavaScript, APIs | Coming Soon |
+| **Advanced To-Do Web Application** | Responsive To-Do app with CRUD, search, filters & dark mode. | HTML, CSS, JavaScript, LocalStorage | [Live Demo](https://pranjaltripathi777.github.io/To-do-app/) |
 
 ---
 
 ## 🛠️ Tech Stack  
 
-✅ **Programming Languages:** Java, Python (Basics)  
-✅ **Web Technologies:** HTML, CSS, JavaScript  
-✅ **Database:** MySQL  
-✅ **Tools:** Git, GitHub, VS Code  
-✅ **DSA:** Solved **100+ LeetCode Problems**  
+- **Programming Languages:** Java, Python (Basics)  
+- **Web Technologies:** HTML, CSS, JavaScript  
+- **Database:** MySQL  
+- **Tools:** Git, GitHub, VS Code  
+- **DSA:** Solved **100+ LeetCode problems**
 
 ---
 
 ## 💼 Internship  
 
-### 🌟 CodSoft — Frontend Developer Intern  
-Worked on frontend development tasks and improved hands-on skills in building responsive UI using HTML, CSS, and JavaScript.
+### 🌟 CodSoft — Frontend Developer Intern (2024)  
+- Built responsive UI using HTML, CSS, and JavaScript  
+- Improved UI/UX and component reusability  
+- Used Git & GitHub for version control  
 
 ---
 
 ## 🎓 Education  
 
-- **Noida Institute of Engineering and Technology** — B.Tech IT (2023–2027) | CGPA: **7.84/10**
-- **Sarswati Vidya Mandir Sr. Sec. School Rambagh** — Class XII (2022) | **70.6%**
-- **New Central Academy** — Class X (2020) | **78.4%**
+- **Noida Institute of Engineering and Technology** — B.Tech IT (2023–2027)  
+  **CGPA:** 7.84 / 10  
+- **Sarswati Vidya Mandir Sr. Sec. School** — Class XII (2022) — **70.6%**  
+- **New Central Academy** — Class X (2020) — **78.4%**
 
 ---
 
 ## 📜 Certifications  
 
-- ✅ Programming Fundamentals using Python — Infosys Springboard (May 2024)  
-- ✅ Next Gen Technology — Infosys Springboard (Sep 2024)  
-- ✅ GenAI Powered Data Analytics Job Simulation — Forage (Jan 2025)  
-- ✅ Quantum: Data Analytics Job Simulation — Forage (Jul 2025)  
+- Programming Fundamentals using Python — Infosys Springboard (2024)  
+- Next Gen Technology — Infosys Springboard (2024)  
+- GenAI Powered Data Analytics Job Simulation — Forage (2025)  
+- Quantum: Data Analytics Job Simulation — Forage (2025)  
 
 ---
 
@@ -82,4 +82,4 @@ Worked on frontend development tasks and improved hands-on skills in building re
 
 ---
 
-⭐ *If you like my work, consider giving a star to my repositories!*  
+⭐ *If you like my work, consider giving a star to my repositories!*
