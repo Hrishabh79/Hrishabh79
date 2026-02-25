@@ -3,9 +3,9 @@
 🎓 B.Tech IT Student (2023–2027)  
 💻 Frontend Developer | 🧠 DSA & LeetCode Learner  
 
-I’m a motivated engineering student who loves building real-world web projects,
-improving problem-solving skills through Data Structures & Algorithms,
-and continuously learning new technologies to grow as a developer.
+Motivated B.Tech Information Technology undergraduate with strong foundations in
+programming and data structures. Seeking an entry-level opportunity to apply
+technical skills and contribute to organizational growth.
 
 ---
 
