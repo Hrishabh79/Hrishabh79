@@ -1,57 +1,103 @@
-# 👋 Hi, I'm Hrishabh Kasaudhan  
-🎓 B.Tech IT Student (2023–2027)  
-💻 DSA & LeetCode Learner  
-Motivated B.Tech Information Technology undergraduate with strong foundations in
-programming and data structures. Seeking an entry-level opportunity to apply
-technical skills and contribute to organizational growth.
----
-## 🧠 LeetCode Stats & Badges  
+<h1 align="center">Hi, I'm Hrishabh Kasaudhan 👋</h1>
+
+<h3 align="center">Java Backend Developer · Final-year B.Tech (IT) Student</h3>
+
 <p align="center">
-  <img src="https://assets.leetcode.com/static_assets/marketing/2022-100.gif" width="140" alt="LeetCode Animation"/>
+  <a href="https://www.linkedin.com/in/hrishabh-kasaudhan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/Hrishabh79/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="mailto:hrishabhkasaudhan9839@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
+
+---
+
+## 👨‍💻 About Me
+
+Final-year B.Tech (Information Technology) student at NIET, Greater Noida, focused on **Java backend development**.
+
+- Build REST APIs with **Spring Boot**, **Spring Security** (JWT and role-based access), **Spring Data JPA**, and **MySQL**
+- Solved **400+ problems** on LeetCode
+- Open to **entry-level SDE / Java Backend Developer** roles
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+**Backend**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+**Database**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+**Core CS:** Data Structures & Algorithms · OOP · DBMS · SOLID Principles
+
+---
+
+## 🚀 Projects
+
+### [Quora Backend API](https://github.com/Hrishabh79/quora-backend-api)
+
+`Java` `Spring Boot` `Spring Security` `Spring Data JPA` `MySQL` `REST API`
+
+A Quora-like backend with REST APIs for questions, answers, comments, tags, and user profiles.
+
+- JWT-based authentication and role-based authorization (`USER`, `ADMIN`) using Spring Security
+- Layered architecture with Controller, Service, Repository, and DTO components
+- MySQL integration through Spring Data JPA, with request validation and centralized exception handling
+
+### [Hostel Management System](https://github.com/Hrishabh79/Hostel-Management)
+
+`Java` `Spring Boot` `Spring Security` `Spring Data JPA` `MySQL` `REST API` `Swagger`
+
+A RESTful backend for managing students, hostels, rooms, complaints, leave requests, and notices.
+
+- Room allocation and vacating with transactional bed-count updates
+- Approve/reject workflow for leave requests and status tracking for complaints
+- Secured with Spring Security HTTP Basic authentication and `ADMIN`, `WARDEN`, and `STUDENT` roles
+- Documented with Swagger (OpenAPI), plus a Postman collection covering every endpoint
+
+---
+
+## 🧠 LeetCode
+
 <p align="center">
   <a href="https://leetcode.com/u/Hrishabh79/">
-    <img src="https://leetcard.jacoblin.cool/Hrishabh79?theme=dark&font=Karma&ext=heatmap&border=2&radius=16" width="650"/>
+    <img src="https://leetcard.jacoblin.cool/Hrishabh79?theme=dark&font=Karma&ext=heatmap&border=2&radius=16" width="600" alt="Hrishabh's LeetCode stats"/>
   </a>
 </p>
-<p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Hrishabh79&theme=dark&animated=true" width="550"/>
-</p>
+
 ---
-## 🚀 Projects  
-| Project | Description | Tech Stack | Link |
-|-------|------------|-----------|------|
-| **Market Pulse – Real-time Market Analysis App** | Real-time market data tracking with dashboards & charts. | HTML, CSS, JavaScript, APIs |
-| **Advanced To-Do Web Application** | Responsive To-Do app with CRUD, search, filters & dark mode. | HTML, CSS, JavaScript, LocalStorage |
+
+## 🎓 Education
+
+| Qualification | Institution | Year |
+|---|---|---|
+| **B.Tech, Information Technology** | Noida Institute of Engineering and Technology, Greater Noida | 2023 – 2027 |
+| **Senior Secondary (Class XII)** | Saraswati Vidya Mandir S.S. School, Basti | 2022 |
+| **Secondary (Class X)** | New Central Academy, Gonda | 2020 |
+
 ---
-## 🛠️ Tech Stack  
-- **Programming Languages:** Java
-- **Web Technologies:** HTML, CSS
-- **Database:** MySQL  
-- **Tools:** Git, GitHub, VS Code  
-- **DSA:** Solved **250+ LeetCode problems**
----
-## 💼 Internship  
-### 🌟 CodSoft — Frontend Developer Intern (2024)  
-- Built responsive UI using HTML, CSS, and JavaScript  
-- Improved UI/UX and component reusability  
-- Used Git & GitHub for version control  
----
-## 🎓 Education  
-- **Noida Institute of Engineering and Technology** — B.Tech IT (2023–2027)  
-  **CGPA:** 7.84 / 10  
-- **Sarswati Vidya Mandir Sr. Sec. School** — Class XII (2022) — **70.6%**  
-- **New Central Academy** — Class X (2020) — **78.4%**
----
-## 📜 Certifications  
-- Programming Fundamentals using Python — Infosys Springboard (2024)  
-- Next Gen Technology — Infosys Springboard (2024)    
----
-## 📫 Connect With Me  
-- 💼 GitHub: [Hrishabh79](https://github.com/Hrishabh79)  
-- 🔗 LinkedIn: [Hrishabh Kasaudhan](https://www.linkedin.com/in/hrishabh-kasaudhan-5566462a4/)  
-- 🧠 LeetCode: [Hrishabh79](https://leetcode.com/u/Hrishabh79/)  
-- 📧 Email: hrishabhkasaudhan9839@gmail.com  
----
-⭐ *If you like my work, consider giving a star to my repositories!*
- ye mera github ka readme hai isme changes krne hai mere resume ke according
+
+## 📫 Get in Touch
+
+- **Email:** hrishabhkasaudhan9839@gmail.com
+- **LinkedIn:** [linkedin.com/in/hrishabh-kasaudhan](https://www.linkedin.com/in/hrishabh-kasaudhan/)
+- **LeetCode:** [leetcode.com/u/Hrishabh79](https://leetcode.com/u/Hrishabh79/)
